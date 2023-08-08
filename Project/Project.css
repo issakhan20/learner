@@ -1,0 +1,39 @@
+#sliderchange {
+
+    width: 100%;
+    height: 80vh;
+
+
+}
+
+.card-text a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+}
+
+.aboutgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+
+}
+
+#mainser {
+    font-family: 'Caveat', cursive;
+    font-family: 'Corinthia', cursive;
+}
+
+.headingos {}
+
+.formabout {
+    font-family: 'Caveat', cursive;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Parisienne', cursive;
+}
+.footerend{
+    background-color: grey;
+}
